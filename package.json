@@ -1,0 +1,13 @@
+{
+  "name": "harmony-music-player",
+  "version": "1.0.0",
+  "description": "HarmonyOS Music Player with ArkTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"HarmonyOS project - use DevEco Studio to build\""
+  },
+  "keywords": ["HarmonyOS", "ArkTS", "Music Player"],
+  "author": "",
+  "license": "MIT"
+}

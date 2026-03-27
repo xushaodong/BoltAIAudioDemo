@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Harmony Music Player"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Music Player Application"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "音乐播放器"
+    },
+    {
+      "name": "app_name",
+      "value": "Harmony Music"
+    }
+  ]
+}
